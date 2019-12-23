@@ -1,0 +1,15 @@
+pkg install git
+pkg install python2
+pkg install php
+pkg install nano
+pkg install openssh
+pip2 install mechanize
+pip2 install requests
+pip install requests
+pkg install python
+pkg install python3
+pip2 install lolcat
+pkg install figlet
+pkg insta toilet
+pip2 install bs4
+pkg install curl
